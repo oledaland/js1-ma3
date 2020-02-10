@@ -31,7 +31,6 @@ const catsText = "All cats are outragous";
 const replaceCats = catsText.replace(/cats/g, "giraffes");
 
 // Task 4
-/*
 const newUrl = new URL("https://my.site.com/?userId=");
 const params = new URLSearchParams(newUrl.search);
 
@@ -52,7 +51,7 @@ function ifId() {
     document.location = "first.html";
   }
 }
-*/
+
 // Task 5
 const container = document.querySelector(".container");
 const button = document.querySelector(".btn");
